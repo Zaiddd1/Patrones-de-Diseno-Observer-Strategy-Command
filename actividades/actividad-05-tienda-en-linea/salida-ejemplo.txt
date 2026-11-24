@@ -1,0 +1,200 @@
+
+===== TIENDA EN LÍNEA =====
+1. Ver catálogo
+2. Agregar un producto al carrito
+3. Quitar un producto del carrito
+4. Deshacer la última acción
+5. Ver carrito y total a pagar
+6. Suscribir o desuscribir un cliente
+7. Publicar una oferta
+8. Terminar la oferta
+0. Salir
+Elija una opción: 2
+   1. Laptop - S/ 2500.00
+   2. Mouse - S/ 50.00
+   3. Teclado - S/ 120.00
+   4. Monitor - S/ 800.00
+   5. Audífonos - S/ 90.00
+Producto: 1
+Hecho: agregar Laptop.
+
+===== TIENDA EN LÍNEA =====
+1. Ver catálogo
+2. Agregar un producto al carrito
+3. Quitar un producto del carrito
+4. Deshacer la última acción
+5. Ver carrito y total a pagar
+6. Suscribir o desuscribir un cliente
+7. Publicar una oferta
+8. Terminar la oferta
+0. Salir
+Elija una opción: 2
+   1. Laptop - S/ 2500.00
+   2. Mouse - S/ 50.00
+   3. Teclado - S/ 120.00
+   4. Monitor - S/ 800.00
+   5. Audífonos - S/ 90.00
+Producto: 2
+Hecho: agregar Mouse.
+
+===== TIENDA EN LÍNEA =====
+1. Ver catálogo
+2. Agregar un producto al carrito
+3. Quitar un producto del carrito
+4. Deshacer la última acción
+5. Ver carrito y total a pagar
+6. Suscribir o desuscribir un cliente
+7. Publicar una oferta
+8. Terminar la oferta
+0. Salir
+Elija una opción: 2
+   1. Laptop - S/ 2500.00
+   2. Mouse - S/ 50.00
+   3. Teclado - S/ 120.00
+   4. Monitor - S/ 800.00
+   5. Audífonos - S/ 90.00
+Producto: 2
+Hecho: agregar Mouse.
+
+===== TIENDA EN LÍNEA =====
+1. Ver catálogo
+2. Agregar un producto al carrito
+3. Quitar un producto del carrito
+4. Deshacer la última acción
+5. Ver carrito y total a pagar
+6. Suscribir o desuscribir un cliente
+7. Publicar una oferta
+8. Terminar la oferta
+0. Salir
+Elija una opción: 5
+   - Laptop S/ 2500.00
+   - Mouse S/ 50.00
+   - Mouse S/ 50.00
+Descuento actual: Sin descuento
+Subtotal:      S/ 2600.00
+TOTAL A PAGAR: S/ 2600.00
+
+===== TIENDA EN LÍNEA =====
+1. Ver catálogo
+2. Agregar un producto al carrito
+3. Quitar un producto del carrito
+4. Deshacer la última acción
+5. Ver carrito y total a pagar
+6. Suscribir o desuscribir un cliente
+7. Publicar una oferta
+8. Terminar la oferta
+0. Salir
+Elija una opción: 4
+Se deshizo: agregar Mouse.
+
+===== TIENDA EN LÍNEA =====
+1. Ver catálogo
+2. Agregar un producto al carrito
+3. Quitar un producto del carrito
+4. Deshacer la última acción
+5. Ver carrito y total a pagar
+6. Suscribir o desuscribir un cliente
+7. Publicar una oferta
+8. Terminar la oferta
+0. Salir
+Elija una opción: 5
+   - Laptop S/ 2500.00
+   - Mouse S/ 50.00
+Descuento actual: Sin descuento
+Subtotal:      S/ 2550.00
+TOTAL A PAGAR: S/ 2550.00
+
+===== TIENDA EN LÍNEA =====
+1. Ver catálogo
+2. Agregar un producto al carrito
+3. Quitar un producto del carrito
+4. Deshacer la última acción
+5. Ver carrito y total a pagar
+6. Suscribir o desuscribir un cliente
+7. Publicar una oferta
+8. Terminar la oferta
+0. Salir
+Elija una opción: 6
+   1. Ana
+   2. Luis
+   3. Marta
+Cliente: 1
+1. Suscribir   2. Desuscribir: 1
+Ana se suscribió a las ofertas.
+
+===== TIENDA EN LÍNEA =====
+1. Ver catálogo
+2. Agregar un producto al carrito
+3. Quitar un producto del carrito
+4. Deshacer la última acción
+5. Ver carrito y total a pagar
+6. Suscribir o desuscribir un cliente
+7. Publicar una oferta
+8. Terminar la oferta
+0. Salir
+Elija una opción: 6
+   1. Ana
+   2. Luis
+   3. Marta
+Cliente: 2
+1. Suscribir   2. Desuscribir: 1
+Luis se suscribió a las ofertas.
+
+===== TIENDA EN LÍNEA =====
+1. Ver catálogo
+2. Agregar un producto al carrito
+3. Quitar un producto del carrito
+4. Deshacer la última acción
+5. Ver carrito y total a pagar
+6. Suscribir o desuscribir un cliente
+7. Publicar una oferta
+8. Terminar la oferta
+0. Salir
+Elija una opción: 7
+Porcentaje de descuento (1 a 90): 20
+   -> Ana recibió: ¡Oferta! 20 % de descuento en toda la tienda.
+   -> Luis recibió: ¡Oferta! 20 % de descuento en toda la tienda.
+
+===== TIENDA EN LÍNEA =====
+1. Ver catálogo
+2. Agregar un producto al carrito
+3. Quitar un producto del carrito
+4. Deshacer la última acción
+5. Ver carrito y total a pagar
+6. Suscribir o desuscribir un cliente
+7. Publicar una oferta
+8. Terminar la oferta
+0. Salir
+Elija una opción: 5
+   - Laptop S/ 2500.00
+   - Mouse S/ 50.00
+Descuento actual: Oferta del 20 %
+Subtotal:      S/ 2550.00
+TOTAL A PAGAR: S/ 2040.00
+
+===== TIENDA EN LÍNEA =====
+1. Ver catálogo
+2. Agregar un producto al carrito
+3. Quitar un producto del carrito
+4. Deshacer la última acción
+5. Ver carrito y total a pagar
+6. Suscribir o desuscribir un cliente
+7. Publicar una oferta
+8. Terminar la oferta
+0. Salir
+Elija una opción: 8
+   -> Ana recibió: La oferta terminó. Los precios vuelven a la normalidad.
+   -> Luis recibió: La oferta terminó. Los precios vuelven a la normalidad.
+
+===== TIENDA EN LÍNEA =====
+1. Ver catálogo
+2. Agregar un producto al carrito
+3. Quitar un producto del carrito
+4. Deshacer la última acción
+5. Ver carrito y total a pagar
+6. Suscribir o desuscribir un cliente
+7. Publicar una oferta
+8. Terminar la oferta
+0. Salir
+Elija una opción: 0
+Gracias por su visita.

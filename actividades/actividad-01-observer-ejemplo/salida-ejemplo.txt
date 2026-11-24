@@ -1,0 +1,2 @@
+Observer1 recibió: Evento 1
+Observer2 recibió: Evento 1

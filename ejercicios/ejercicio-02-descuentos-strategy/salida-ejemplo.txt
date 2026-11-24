@@ -1,0 +1,217 @@
+
+===== CALCULADORA DE PRECIOS =====
+1. Agregar un producto al carrito
+2. Ver el carrito
+3. Elegir la estrategia de descuento
+4. Calcular el precio final
+5. Vaciar el carrito
+0. Salir
+Estrategia actual: Sin descuento
+Elija una opción: 1
+   1. Laptop - S/ 2500.00
+   2. Mouse - S/ 50.00
+   3. Teclado - S/ 120.00
+   4. Monitor - S/ 800.00
+   5. Audífonos - S/ 90.00
+Producto: 1
+Se agregó Laptop.
+
+===== CALCULADORA DE PRECIOS =====
+1. Agregar un producto al carrito
+2. Ver el carrito
+3. Elegir la estrategia de descuento
+4. Calcular el precio final
+5. Vaciar el carrito
+0. Salir
+Estrategia actual: Sin descuento
+Elija una opción: 1
+   1. Laptop - S/ 2500.00
+   2. Mouse - S/ 50.00
+   3. Teclado - S/ 120.00
+   4. Monitor - S/ 800.00
+   5. Audífonos - S/ 90.00
+Producto: 2
+Se agregó Mouse.
+
+===== CALCULADORA DE PRECIOS =====
+1. Agregar un producto al carrito
+2. Ver el carrito
+3. Elegir la estrategia de descuento
+4. Calcular el precio final
+5. Vaciar el carrito
+0. Salir
+Estrategia actual: Sin descuento
+Elija una opción: 1
+   1. Laptop - S/ 2500.00
+   2. Mouse - S/ 50.00
+   3. Teclado - S/ 120.00
+   4. Monitor - S/ 800.00
+   5. Audífonos - S/ 90.00
+Producto: 2
+Se agregó Mouse.
+
+===== CALCULADORA DE PRECIOS =====
+1. Agregar un producto al carrito
+2. Ver el carrito
+3. Elegir la estrategia de descuento
+4. Calcular el precio final
+5. Vaciar el carrito
+0. Salir
+Estrategia actual: Sin descuento
+Elija una opción: 2
+   - Laptop S/ 2500.00
+   - Mouse S/ 50.00
+   - Mouse S/ 50.00
+
+===== CALCULADORA DE PRECIOS =====
+1. Agregar un producto al carrito
+2. Ver el carrito
+3. Elegir la estrategia de descuento
+4. Calcular el precio final
+5. Vaciar el carrito
+0. Salir
+Estrategia actual: Sin descuento
+Elija una opción: 3
+   1. Sin descuento
+   2. Descuento fijo (10 %)
+   3. Descuento porcentual (2 iguales = 30 %)
+   4. Descuento acumulado (3 o más = 50 % al más barato)
+Estrategia: 1
+Estrategia elegida: Sin descuento
+
+===== CALCULADORA DE PRECIOS =====
+1. Agregar un producto al carrito
+2. Ver el carrito
+3. Elegir la estrategia de descuento
+4. Calcular el precio final
+5. Vaciar el carrito
+0. Salir
+Estrategia actual: Sin descuento
+Elija una opción: 4
+Estrategia: Sin descuento
+Subtotal:   S/ 2600.00
+Descuento:  S/ 0.00
+PRECIO FINAL: S/ 2600.00
+
+===== CALCULADORA DE PRECIOS =====
+1. Agregar un producto al carrito
+2. Ver el carrito
+3. Elegir la estrategia de descuento
+4. Calcular el precio final
+5. Vaciar el carrito
+0. Salir
+Estrategia actual: Sin descuento
+Elija una opción: 3
+   1. Sin descuento
+   2. Descuento fijo (10 %)
+   3. Descuento porcentual (2 iguales = 30 %)
+   4. Descuento acumulado (3 o más = 50 % al más barato)
+Estrategia: 2
+Estrategia elegida: Descuento fijo (10 %)
+
+===== CALCULADORA DE PRECIOS =====
+1. Agregar un producto al carrito
+2. Ver el carrito
+3. Elegir la estrategia de descuento
+4. Calcular el precio final
+5. Vaciar el carrito
+0. Salir
+Estrategia actual: Descuento fijo (10 %)
+Elija una opción: 4
+Estrategia: Descuento fijo (10 %)
+Subtotal:   S/ 2600.00
+Descuento:  S/ 260.00
+PRECIO FINAL: S/ 2340.00
+
+===== CALCULADORA DE PRECIOS =====
+1. Agregar un producto al carrito
+2. Ver el carrito
+3. Elegir la estrategia de descuento
+4. Calcular el precio final
+5. Vaciar el carrito
+0. Salir
+Estrategia actual: Descuento fijo (10 %)
+Elija una opción: 3
+   1. Sin descuento
+   2. Descuento fijo (10 %)
+   3. Descuento porcentual (2 iguales = 30 %)
+   4. Descuento acumulado (3 o más = 50 % al más barato)
+Estrategia: 3
+Estrategia elegida: Descuento porcentual (2 iguales = 30 %)
+
+===== CALCULADORA DE PRECIOS =====
+1. Agregar un producto al carrito
+2. Ver el carrito
+3. Elegir la estrategia de descuento
+4. Calcular el precio final
+5. Vaciar el carrito
+0. Salir
+Estrategia actual: Descuento porcentual (2 iguales = 30 %)
+Elija una opción: 4
+Estrategia: Descuento porcentual (2 iguales = 30 %)
+Subtotal:   S/ 2600.00
+Descuento:  S/ 30.00
+PRECIO FINAL: S/ 2570.00
+
+===== CALCULADORA DE PRECIOS =====
+1. Agregar un producto al carrito
+2. Ver el carrito
+3. Elegir la estrategia de descuento
+4. Calcular el precio final
+5. Vaciar el carrito
+0. Salir
+Estrategia actual: Descuento porcentual (2 iguales = 30 %)
+Elija una opción: 3
+   1. Sin descuento
+   2. Descuento fijo (10 %)
+   3. Descuento porcentual (2 iguales = 30 %)
+   4. Descuento acumulado (3 o más = 50 % al más barato)
+Estrategia: 4
+Estrategia elegida: Descuento acumulado (3 o más = 50 % al más barato)
+
+===== CALCULADORA DE PRECIOS =====
+1. Agregar un producto al carrito
+2. Ver el carrito
+3. Elegir la estrategia de descuento
+4. Calcular el precio final
+5. Vaciar el carrito
+0. Salir
+Estrategia actual: Descuento acumulado (3 o más = 50 % al más barato)
+Elija una opción: 4
+Estrategia: Descuento acumulado (3 o más = 50 % al más barato)
+Subtotal:   S/ 2600.00
+Descuento:  S/ 25.00
+PRECIO FINAL: S/ 2575.00
+
+===== CALCULADORA DE PRECIOS =====
+1. Agregar un producto al carrito
+2. Ver el carrito
+3. Elegir la estrategia de descuento
+4. Calcular el precio final
+5. Vaciar el carrito
+0. Salir
+Estrategia actual: Descuento acumulado (3 o más = 50 % al más barato)
+Elija una opción: 5
+El carrito quedó vacío.
+
+===== CALCULADORA DE PRECIOS =====
+1. Agregar un producto al carrito
+2. Ver el carrito
+3. Elegir la estrategia de descuento
+4. Calcular el precio final
+5. Vaciar el carrito
+0. Salir
+Estrategia actual: Descuento acumulado (3 o más = 50 % al más barato)
+Elija una opción: 4
+Agregue productos antes de calcular.
+
+===== CALCULADORA DE PRECIOS =====
+1. Agregar un producto al carrito
+2. Ver el carrito
+3. Elegir la estrategia de descuento
+4. Calcular el precio final
+5. Vaciar el carrito
+0. Salir
+Estrategia actual: Descuento acumulado (3 o más = 50 % al más barato)
+Elija una opción: 0
+Fin del programa.

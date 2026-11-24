@@ -1,0 +1,3 @@
+Precio sin descuento: 100.0
+Precio con 10% de descuento: 90.0
+Precio con descuento especial: 80.0

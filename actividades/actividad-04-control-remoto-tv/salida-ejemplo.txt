@@ -1,0 +1,108 @@
+
+===== CONTROL REMOTO DEL TELEVISOR =====
+1. Encender / Apagar
+2. Subir volumen
+3. Bajar volumen
+4. Canal siguiente
+5. Canal anterior
+0. Salir
+Presione un botón: 2
+El televisor está apagado. Enciéndalo primero.
+
+===== CONTROL REMOTO DEL TELEVISOR =====
+1. Encender / Apagar
+2. Subir volumen
+3. Bajar volumen
+4. Canal siguiente
+5. Canal anterior
+0. Salir
+Presione un botón: 1
+El televisor se encendió.
+   Estado: ENCENDIDO | Canal 1 | Volumen 10
+
+===== CONTROL REMOTO DEL TELEVISOR =====
+1. Encender / Apagar
+2. Subir volumen
+3. Bajar volumen
+4. Canal siguiente
+5. Canal anterior
+0. Salir
+Presione un botón: 2
+Volumen subido.
+   Estado: ENCENDIDO | Canal 1 | Volumen 15
+
+===== CONTROL REMOTO DEL TELEVISOR =====
+1. Encender / Apagar
+2. Subir volumen
+3. Bajar volumen
+4. Canal siguiente
+5. Canal anterior
+0. Salir
+Presione un botón: 2
+Volumen subido.
+   Estado: ENCENDIDO | Canal 1 | Volumen 20
+
+===== CONTROL REMOTO DEL TELEVISOR =====
+1. Encender / Apagar
+2. Subir volumen
+3. Bajar volumen
+4. Canal siguiente
+5. Canal anterior
+0. Salir
+Presione un botón: 4
+Cambió al canal siguiente.
+   Estado: ENCENDIDO | Canal 2 | Volumen 20
+
+===== CONTROL REMOTO DEL TELEVISOR =====
+1. Encender / Apagar
+2. Subir volumen
+3. Bajar volumen
+4. Canal siguiente
+5. Canal anterior
+0. Salir
+Presione un botón: 4
+Cambió al canal siguiente.
+   Estado: ENCENDIDO | Canal 3 | Volumen 20
+
+===== CONTROL REMOTO DEL TELEVISOR =====
+1. Encender / Apagar
+2. Subir volumen
+3. Bajar volumen
+4. Canal siguiente
+5. Canal anterior
+0. Salir
+Presione un botón: 5
+Cambió al canal anterior.
+   Estado: ENCENDIDO | Canal 2 | Volumen 20
+
+===== CONTROL REMOTO DEL TELEVISOR =====
+1. Encender / Apagar
+2. Subir volumen
+3. Bajar volumen
+4. Canal siguiente
+5. Canal anterior
+0. Salir
+Presione un botón: 3
+Volumen bajado.
+   Estado: ENCENDIDO | Canal 2 | Volumen 15
+
+===== CONTROL REMOTO DEL TELEVISOR =====
+1. Encender / Apagar
+2. Subir volumen
+3. Bajar volumen
+4. Canal siguiente
+5. Canal anterior
+0. Salir
+Presione un botón: 1
+El televisor se apagó.
+   Estado: APAGADO
+
+===== CONTROL REMOTO DEL TELEVISOR =====
+1. Encender / Apagar
+2. Subir volumen
+3. Bajar volumen
+4. Canal siguiente
+5. Canal anterior
+0. Salir
+Presione un botón: 0
+Control remoto guardado. Hasta luego.

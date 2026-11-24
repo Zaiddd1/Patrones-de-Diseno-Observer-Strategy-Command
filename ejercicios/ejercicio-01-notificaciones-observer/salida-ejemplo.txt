@@ -1,0 +1,116 @@
+Ana se suscribió.
+Luis se suscribió.
+
+===== SISTEMA DE NOTIFICACIONES =====
+1. Suscribir un usuario
+2. Desuscribir un usuario
+3. Publicar una notificación
+4. Ver las notificaciones de un usuario
+5. Ver quiénes están suscritos
+0. Salir
+Elija una opción: 5
+Suscritos: Ana Luis
+
+===== SISTEMA DE NOTIFICACIONES =====
+1. Suscribir un usuario
+2. Desuscribir un usuario
+3. Publicar una notificación
+4. Ver las notificaciones de un usuario
+5. Ver quiénes están suscritos
+0. Salir
+Elija una opción: 1
+1. Ana
+2. Luis
+3. Marta
+4. Pedro
+Elija el usuario: 3
+Marta se suscribió.
+
+===== SISTEMA DE NOTIFICACIONES =====
+1. Suscribir un usuario
+2. Desuscribir un usuario
+3. Publicar una notificación
+4. Ver las notificaciones de un usuario
+5. Ver quiénes están suscritos
+0. Salir
+Elija una opción: 3
+Tipo: 1. Promoción   2. Actualización de producto
+Elija el tipo: 1
+Escriba el mensaje: Oferta de verano en laptops
+Enviando a 3 suscrito(s)...
+   -> Ana recibió: [Promoción] Oferta de verano en laptops
+   -> Luis recibió: [Promoción] Oferta de verano en laptops
+   -> Marta recibió: [Promoción] Oferta de verano en laptops
+
+===== SISTEMA DE NOTIFICACIONES =====
+1. Suscribir un usuario
+2. Desuscribir un usuario
+3. Publicar una notificación
+4. Ver las notificaciones de un usuario
+5. Ver quiénes están suscritos
+0. Salir
+Elija una opción: 2
+1. Ana
+2. Luis
+3. Marta
+4. Pedro
+Elija el usuario: 1
+Ana canceló su suscripción.
+
+===== SISTEMA DE NOTIFICACIONES =====
+1. Suscribir un usuario
+2. Desuscribir un usuario
+3. Publicar una notificación
+4. Ver las notificaciones de un usuario
+5. Ver quiénes están suscritos
+0. Salir
+Elija una opción: 3
+Tipo: 1. Promoción   2. Actualización de producto
+Elija el tipo: 2
+Escriba el mensaje: Llegaron nuevos mouse inalambricos
+Enviando a 2 suscrito(s)...
+   -> Luis recibió: [Actualización de producto] Llegaron nuevos mouse inalambricos
+   -> Marta recibió: [Actualización de producto] Llegaron nuevos mouse inalambricos
+
+===== SISTEMA DE NOTIFICACIONES =====
+1. Suscribir un usuario
+2. Desuscribir un usuario
+3. Publicar una notificación
+4. Ver las notificaciones de un usuario
+5. Ver quiénes están suscritos
+0. Salir
+Elija una opción: 4
+1. Ana
+2. Luis
+3. Marta
+4. Pedro
+Elija el usuario: 1
+Notificaciones de Ana:
+   - [Promoción] Oferta de verano en laptops
+
+===== SISTEMA DE NOTIFICACIONES =====
+1. Suscribir un usuario
+2. Desuscribir un usuario
+3. Publicar una notificación
+4. Ver las notificaciones de un usuario
+5. Ver quiénes están suscritos
+0. Salir
+Elija una opción: 4
+1. Ana
+2. Luis
+3. Marta
+4. Pedro
+Elija el usuario: 3
+Notificaciones de Marta:
+   - [Promoción] Oferta de verano en laptops
+   - [Actualización de producto] Llegaron nuevos mouse inalambricos
+
+===== SISTEMA DE NOTIFICACIONES =====
+1. Suscribir un usuario
+2. Desuscribir un usuario
+3. Publicar una notificación
+4. Ver las notificaciones de un usuario
+5. Ver quiénes están suscritos
+0. Salir
+Elija una opción: 0
+Fin del programa.
